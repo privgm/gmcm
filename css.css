@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Ҫʽ*/
+body{
+	font:12px/18px Verdana, Simsun, Helvetica, Arial, sans-serif;
+	color:#fff;
+	background:#000;
+
+
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, button{padding:0;margin:0;}
+ul{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+img{ vertical-align:top;border:0;}
+fieldset, img{border:0;}
+input, label, select, option, textarea, button, fieldset, legend{font:12px/18px Verdana, Simsun, Helvetica, Arial, sans-serif;}
+table{border-collapse:collapse;border-spacing:0;font:12px/18px Verdana, Simsun, Helvetica, Arial, sans-serif;}
+
+/**/
+.clear{ clear:both}
+.dis{ display:none}
+.left{ float:left}
+.right{ float:right}
+.red{color:#AF1702;}
+.border1px{ border:1px solid #ddd}
+.border5px{ border:5px solid #fff}
+.position_rel{ position:relative}
+del{ font-family:georgia}

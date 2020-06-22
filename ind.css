@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top_bj{ width:100%; margin:0 auto;}
+.ind_nr{ width:884px; margin:0 auto;}
+
+.gg_nr{ width:884px; height:260px; background:url("ind_05.png")/*tpa=http://116.10.184.174:500/images/ind_05.png*/ no-repeat center bottom; font-family:"宋体"; font-size:14px; color:#fff; text-align:center; line-height:33px; font-weight:bold;}
+
+.indnr_bj{ width:884px; background:url("ind_11.jpg")/*tpa=http://116.10.184.174:500/images/ind_11.jpg*/ repeat-y;}
+.indnr_fmjs{ width:797px; margin:0 auto;}
+.nr_bj{ width:797px; height:83px; background:url("ind_08.jpg")/*tpa=http://116.10.184.174:500/images/ind_08.jpg*/ no-repeat;}
+.indnr_wz{ width:797px; height:40px; background:url("ind_17.png")/*tpa=http://116.10.184.174:500/images/ind_17.png*/ no-repeat; font-family:"宋体"; font-size:14px; color:#fff; text-align:center; line-height:40px; font-weight:bold;}
+
+.indnr_wz1{ width:797px; height:227px; background:url("ind_25.png")/*tpa=http://116.10.184.174:500/images/ind_25.png*/ no-repeat;}
+.indnr_wz2{ font-family:"宋体"; font-size:14px; color:#fff; line-height:30px; font-weight:bold; margin-left:10px; margin-top:8px; width:750px;}
+
+
+.indnr_zb{ width:797px; height:48px; margin-top:14px; margin-bottom:12px; background:url("ind_27.jpg")/*tpa=http://116.10.184.174:500/images/ind_27.jpg*/ no-repeat;}
+
+
+
+.footer{ width:100%; margin:0 auto; background:url("ind_37.jpg")/*tpa=http://116.10.184.174:500/images/ind_37.jpg*/ top center no-repeat; height:260px;}
+.foo_wz{ width:884px; margin:0 auto; text-align:center; line-height:30px; margin-top:40px;}
